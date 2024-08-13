@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Quaneisha!
+## 👋 Hi, I'm Quaneisha!
 
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 🎓 Studied [Computer Science](https://web.mit.edu/) at the University of MIT<br/>
@@ -13,7 +13,7 @@
 
 <br clear="left"/>
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%23157286.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
