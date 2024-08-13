@@ -6,12 +6,18 @@
 ⭐️ #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
 💭 Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
 
+</br>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=mapleury&count_private=true&show_icons=true&theme=radical&hide_rank=false" alt="Quaneisha's github stats" />
 </a>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mapleury&layout=compact&theme=radical" alt="Top Languages" />
 
+
 <br clear="left"/>
+</br>
+</br>
+</br>
 
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
