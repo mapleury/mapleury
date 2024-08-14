@@ -49,6 +49,8 @@
 <img style="margin-top: -60px;" alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
   <br/>
+    <br/>
+
 <div align="right">
     <a href="mailto:quaneisha.syifa@gmail.com">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" style="width: 40px; height: 40px; filter: invert(1); margin-right: 10px; margin-left: 30px;">
