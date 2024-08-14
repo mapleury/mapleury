@@ -1,4 +1,7 @@
-## 👋 Hi, I'm Quaneisha!
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mapleury.mapleury" />
+
+# 👋 Hi, I'm Quaneisha!
+
 
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 🎓 Studied [Computer Science](https://web.mit.edu/) at the University of MIT<br/>
@@ -34,3 +37,31 @@
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<br/>
+<br/>
+
+
+
+<div align="left">
+  
+ <h2>My Contributions</h2>
+<img style="margin-top: -60px;" alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+
+  <br/><br/>
+</div>
+
+
+<div align="left"> 
+  <a href="mailto:quaneisha.syifa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+  <img src="file:///Users/mac/Downloads/image%202.png" alt="Orca" width="1000" />
+
