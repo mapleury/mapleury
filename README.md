@@ -1,6 +1,3 @@
-<head>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-p1v8INv9K/3yIZ3umcg2lP5ZyEE5FhX3+yfXPQfK4+oFxaQLuTQwkkfImHNVw+piu/JefGy0S8KcV8aYg6qg3g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-</head>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mapleury.mapleury" />
 
 
@@ -8,10 +5,10 @@
 
 
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-🎓 Studied [Computer Science](https://web.mit.edu/) at the University of MIT<br/>
+🎓 Studied [Computer Science](https://web.mit.edu/) at IDN Vocational High School<br/>
 🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/)<br/>
-⭐️ #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
-💭 Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
+⭐️ #fullstack-webdev #aminjadicybersecuritu <br/>
+💭 Currently learning about data science and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
 
 </br>
 
@@ -51,19 +48,17 @@
  <h2>My Contributions</h2>
 <img style="margin-top: -60px;" alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
-  <br/><br/>
+  <br/>
+<div align="right">
+    <a href="mailto:quaneisha.syifa@gmail.com">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" style="width: 40px; height: 40px; filter: invert(1); margin-right: 10px; margin-left: 30px;">
+    </a>
+ 
+ <a href="[https://linkedin.com/in/pedro-sales-muniz](https://www.linkedin.com/in/quaneisha-n-bb1467235/)" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 40px; height: 40px; filter: invert(1); margin-right: 10px; margin-right: 10px;">
+    </a>
+  
 </div>
 
-<div align="left">
-    <a href="mailto:quaneisha.syifa@gmail.com">
-        <i class="fa-solid fa-envelope" style="font-size: 30px; color: white;"></i>
-    </a>
-    <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-        <i class="fa-brands fa-linkedin" style="font-size: 30px; color: white;"></i>
-    </a>
-    <a href="https://salesp07.github.io" target="_blank">
-        <i class="fa-solid fa-globe" style="font-size: 30px; color: white;"></i>
-    </a>
-</div>
 
 
