@@ -1,4 +1,8 @@
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-p1v8INv9K/3yIZ3umcg2lP5ZyEE5FhX3+yfXPQfK4+oFxaQLuTQwkkfImHNVw+piu/JefGy0S8KcV8aYg6qg3g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mapleury.mapleury" />
+
 
 # 👋 Hi, I'm Quaneisha!
 
@@ -50,18 +54,16 @@
   <br/><br/>
 </div>
 
-
-<div align="left"> 
-  <a href="mailto:quaneisha.syifa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+<div align="left">
+    <a href="mailto:quaneisha.syifa@gmail.com">
+        <i class="fa-solid fa-envelope" style="font-size: 30px; color: white;"></i>
+    </a>
+    <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+        <i class="fa-brands fa-linkedin" style="font-size: 30px; color: white;"></i>
+    </a>
+    <a href="https://salesp07.github.io" target="_blank">
+        <i class="fa-solid fa-globe" style="font-size: 30px; color: white;"></i>
+    </a>
 </div>
 
-  <img src="file:///Users/mac/Downloads/image%202.png" alt="Orca" width="1000" />
 
