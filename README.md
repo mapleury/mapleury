@@ -6,9 +6,9 @@
 
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 🎓 Studied [Computer Science](https://web.mit.edu/) at IDN Vocational High School<br/>
-🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/)<br/>
+🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/) <br/>
 ⭐️ #fullstack-webdev #aminjadicybersecuritu <br/>
-💭 Currently learning about data science and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
+💭 all these flavors and you choosed to be salty?
 
 </br>
 
