@@ -17,14 +17,14 @@
 ### 💼 Featured Projects
 | Name | Purpose | Power |
 |------|---------|-------|
-| `NeuroWhisper` | Deep learning model for voice synthesis | "Built to mimic — taught to feel." |
-| `VantaCMS` | Lightweight content system with a sharp UI | "Control without noise." |
-| `PoetCore` | A web journal engine | "Where data and diction kiss." |
+| `NeuroWhisper` | Deep learning model for voice synthesis | Built to mimic, still working on it |
+| `VantaCMS` | Lightweight content system with a sharp UI | Control without noise. |
+| `PoetCore` | A web journal engine | Where data and diction kiss. Haha? |
 
 ---
 
 ### 🕸 Current Obsessions  
-- Mentoring basic ML apprentices 
+- Learning ML apprentices 
 - Reading obscure theory books and annotating them
 
 ---
