@@ -14,7 +14,7 @@
 
 ---
 
-### 💼 Featured Projects
+### Featured Personal Projects
 | Name | Purpose | Power |
 |------|---------|-------|
 | `NeuroWhisper` | Deep learning model for voice synthesis | Built to mimic, still working on it |
@@ -23,11 +23,12 @@
 
 ---
 
-### 🕸 Current Obsessions  
+### Current Obsessions  
 - Learning ML apprentices 
 - Reading obscure theory books and annotating them
 - Actually inconsistent with those obsessions
 
 https://medium.com/@quaneisha.syifa/when-imperfections-became-the-excuse-a02fbaff40b9
+🕸 click on that if u dare
 
 ---
