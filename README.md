@@ -1,16 +1,16 @@
-# Im Quan — Full Stack Dev.
+# Im Quan — Full Stack Dev. 🕷
 
 > “Built with Python. Powered by irritation.”
 
-🕷 **Fields I command**  
+ **Fields I command**  
 - Machine Learning (NLP, Computer Vision, Models)
 - Full Stack Web Dev 
 - System Architecture
 - Writing, Poetry, and Expression (Im sorry, i have a soul)
 
-👁 **What I believe**  
+ **What I believe**  
 > If the code doesn’t evoke anything, it’s not complete.  
-> Silence in design is as powerful as sound in execution.
+> Silence in design is as powerful as sound in execution!
 
 ---
 
@@ -26,5 +26,8 @@
 ### 🕸 Current Obsessions  
 - Learning ML apprentices 
 - Reading obscure theory books and annotating them
+- Actually inconsistent with those obsessions
+
+https://medium.com/@quaneisha.syifa/when-imperfections-became-the-excuse-a02fbaff40b9
 
 ---
